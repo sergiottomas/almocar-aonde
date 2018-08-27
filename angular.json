@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/almocar-onde-app-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
